@@ -37,5 +37,6 @@ function trueFalse() {
 
 function array() {
     var number = [200, 324, 544, 800, 129, 85, 45, 80, 45, 2000, 750]
+    alert(number[number.length-1])
 }
     
